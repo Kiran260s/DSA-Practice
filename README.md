@@ -10,6 +10,7 @@ I use it to **track progress**, **revise concepts**, and build a strong foundati
 ### Arrays
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/)
+- [ ] [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Strings
