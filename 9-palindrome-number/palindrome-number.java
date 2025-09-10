@@ -10,6 +10,9 @@ class Solution {
                 rev = rev * 10 + digit;
                 x = x/10;
             }
-            return rev==org;
+            if(rev==org){
+                return true;
+            }
+            return false;
     }
 }
