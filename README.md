@@ -9,12 +9,12 @@ I use it to **track progress**, **revise concepts**, and build a strong foundati
 
 ### Arrays
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
-- [ ] [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
-- [ ] [Remove Duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array)
-- [ ] [Remove Element](https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array)
-- [ ] [Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=problem-list-v2&envId=array)
+- [x] [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+- [x] [Remove Duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=problem-list-v2&envId=array)
+- [x] [Remove Element](https://leetcode.com/problems/remove-element/?envType=problem-list-v2&envId=array)
+- [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=problem-list-v2&envId=array)
 - [ ] [Kadane's Algorithm](https://leetcode.com/problems/maximum-subarray/)
-- [ ] [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array)
+- [x] [Remove Element](https://leetcode.com/problems/remove-element/description/?envType=problem-list-v2&envId=array)
 - [ ] [Rotate Array](https://leetcode.com/problems/rotate-array/)
 
 ### Strings
