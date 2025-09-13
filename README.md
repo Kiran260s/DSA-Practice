@@ -19,7 +19,7 @@ I use it to **track progress**, **revise concepts**, and build a strong foundati
 
 ### Strings
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
-- [ ] [Longest Commom Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=problem-list-v2&envId=array)
+- [x] [Longest Commom Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=problem-list-v2&envId=array)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)
 
