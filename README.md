@@ -25,7 +25,7 @@ I use it to **track progress**, **revise concepts**, and build a strong foundati
 
 ### Linked List
 - [ ] [Insert at Beginning]
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 ### Dynamic Programming
 - [ ] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
