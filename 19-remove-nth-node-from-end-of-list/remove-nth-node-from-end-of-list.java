@@ -8,6 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+//        Hare  And Tortoise Algorithm
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
        //Create Dummy node to simplfy the deletion of head as in example 2
